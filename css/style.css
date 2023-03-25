@@ -1,0 +1,49 @@
+.rectangle{
+    width: 500px;
+    height: 1px;
+    background-color: rgb(255, 255, 255);
+}
+.maintext{
+    padding-top: 350px;
+    font-family: 'Courier New', Courier, monospace;
+   color: white;
+    
+}
+.smal{
+    font-size: 20px;
+}
+.big{
+    font-size: 40px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+
+
+}
+.firsbut{
+    border: 3px solid;
+    border-color: black;
+    margin-right: 5px;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-color: white;
+   
+}
+.secondbut{
+    border: 3px solid;
+    border-color: black;
+    margin-left: 5px;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-color: white;
+}
+body{
+    background-image: url(../img/wallpaperflare.com_wallpaper.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    
+}
